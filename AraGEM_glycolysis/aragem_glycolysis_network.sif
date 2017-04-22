@@ -1,0 +1,63 @@
+r150:pyruvate dehydrogenase E1 component alpha subunit, chloroplast	r150L	Pyruvate_c
+r150:pyruvate dehydrogenase E1 component alpha subunit, chloroplast	r150R	2-(alpha-Hydroxyethyl)thiamine diphosphate
+r150:pyruvate dehydrogenase E1 component alpha subunit, chloroplast	r150R	CO2_c
+r185:pyruvate kinase	r185L	Phosphoenolpyruvate_c
+r185:pyruvate kinase	r185R	Pyruvate_c
+r186:pyruvate kinase	r186L	Phosphoenolpyruvate_p
+r186:pyruvate kinase	r186R	Pyruvate_p
+r279:enolase	r279L	2-Phospho-D-glycerate_c
+r279:enolase	r279R	Phosphoenolpyruvate_c
+r280:enolase	r280L	2-Phospho-D-glycerate_p
+r280:enolase	r280R	Phosphoenolpyruvate_p
+r291:aldehyde dehydrogenase, mitochondrial (ALDH3)	r291L	Acetaldehyde
+r291:aldehyde dehydrogenase, mitochondrial (ALDH3)	r291R	Acetate_c
+r301:pyruvate decarboxylase	r301L	2-(alpha-Hydroxyethyl)thiamine diphosphate
+r301:pyruvate decarboxylase	r301R	Acetaldehyde
+r345:phosphoglucomutase, cytoplasmic	r345L	D-Glucose 1-phosphate
+r345:phosphoglucomutase, cytoplasmic	r345R	alpha-D-Glucose 6-phosphate_p
+r346:phosphoglucomutase, cytoplasmic	r346L	D-Glucose 1-phosphate
+r346:phosphoglucomutase, cytoplasmic	r346R	alpha-D-Glucose 6-phosphate_c
+r358:triosephosphate isomerase, chloroplast	r358L	(2R)-2-Hydroxy-3-(phosphonooxy)-propanal_c
+r358:triosephosphate isomerase, chloroplast	r358R	Glycerone phosphate_c
+r359:triosephosphate isomerase, chloroplast	r359L	(2R)-2-Hydroxy-3-(phosphonooxy)-propanal_p
+r359:triosephosphate isomerase, chloroplast	r359R	Glycerone phosphate_p
+r368:glyceraldehyde 3-phosphate dehydrogenase, chloroplast	r368L	(2R)-2-Hydroxy-3-(phosphonooxy)-propanal_c
+r368:glyceraldehyde 3-phosphate dehydrogenase, chloroplast	r368R	3-Phospho-D-glyceroyl phosphate
+r369:glyceraldehyde 3-phosphate dehydrogenase A, chloroplast (GAPA)	r369L	(2R)-2-Hydroxy-3-(phosphonooxy)-propanal_p
+r369:glyceraldehyde 3-phosphate dehydrogenase A, chloroplast (GAPA)	r369R	3-Phospho-D-glyceroyl phosphate
+r370:glyceraldehyde 3-phosphate dehydrogenase, chloroplast	r370L	(2R)-2-Hydroxy-3-(phosphonooxy)-propanal_p
+r370:glyceraldehyde 3-phosphate dehydrogenase, chloroplast	r370R	3-Phospho-D-glyceroyl phosphate
+r371:fructose-bisphosphate aldolase	r371L	beta-D-Fructose 1,6-bisphosphate
+r371:fructose-bisphosphate aldolase	r371R	(2R)-2-Hydroxy-3-(phosphonooxy)-propanal_c
+r371:fructose-bisphosphate aldolase	r371R	Glycerone phosphate_c
+r372:fructose-bisphosphate aldolase	r372L	beta-D-Fructose 1,6-bisphosphate
+r372:fructose-bisphosphate aldolase	r372R	(2R)-2-Hydroxy-3-(phosphonooxy)-propanal_p
+r372:fructose-bisphosphate aldolase	r372R	Glycerone phosphate_p
+r444:phosphoglycerate kinase	r444L	3-Phospho-D-glycerate_c
+r444:phosphoglycerate kinase	r444R	3-Phospho-D-glyceroyl phosphate
+r445:phosphoglycerate kinase	r445L	3-Phospho-D-glycerate_p
+r445:phosphoglycerate kinase	r445R	3-Phospho-D-glyceroyl phosphate
+r447:2,3-biphosphoglycerate-independent phosphoglycerate mutase	r447L	2-Phospho-D-glycerate_c
+r447:2,3-biphosphoglycerate-independent phosphoglycerate mutase	r447R	3-Phospho-D-glycerate_c
+r448:2,3-biphosphoglycerate-independent phosphoglycerate mutase	r448L	2-Phospho-D-glycerate_p
+r448:2,3-biphosphoglycerate-independent phosphoglycerate mutase	r448R	3-Phospho-D-glycerate_p
+r459:hexokinase	r459L	beta-D-Glucose
+r459:hexokinase	r459R	beta-D-Glucose 6-phosphate
+r460:aldose 1-epimerase family protein	r460L	alpha-D-Glucose_c
+r460:aldose 1-epimerase family protein	r460R	beta-D-Glucose
+r491:hexokinase	r491L	alpha-D-Glucose_c
+r491:hexokinase	r491R	alpha-D-Glucose 6-phosphate_c
+r647:glucose-6-phosphate isomerase	r647L	alpha-D-Glucose 6-phosphate_p
+r647:glucose-6-phosphate isomerase	r647R	beta-D-Glucose 6-phosphate
+r648:glucose-6-phosphate isomerase, cytosolic (GPI) (phosphoglucose isomerase) (PGI) (phosphohexose isomerase) (PHI) (sp|P34795)	r648L	alpha-D-Glucose 6-phosphate_c
+r648:glucose-6-phosphate isomerase, cytosolic (GPI) (phosphoglucose isomerase) (PGI) (phosphohexose isomerase) (PHI) (sp|P34795)	r648R	beta-D-Glucose 6-phosphate
+r649:glucose-6-phosphate isomerase	r649L	alpha-D-Glucose 6-phosphate_c
+r649:glucose-6-phosphate isomerase	r649R	beta-D-Fructose 6-phosphate
+r650:glucose-6-phosphate isomerase	r650L	alpha-D-Glucose 6-phosphate_p
+r650:glucose-6-phosphate isomerase	r650R	beta-D-Fructose 6-phosphate
+r715:glucose-6-phosphate isomerase	r715L	beta-D-Glucose 6-phosphate
+r715:glucose-6-phosphate isomerase	r715R	beta-D-Fructose 6-phosphate
+r904:fructose-1,6-bisphosphatase	r904L	beta-D-Fructose 1,6-bisphosphate
+r904:fructose-1,6-bisphosphatase	r904R	beta-D-Fructose 6-phosphate
+r905:fructose-1,6-bisphosphatase	r905L	beta-D-Fructose 1,6-bisphosphate
+r905:fructose-1,6-bisphosphatase	r905R	beta-D-Fructose 6-phosphate

@@ -1,0 +1,61 @@
+name	type
+(2R)-2-Hydroxy-3-(phosphonooxy)-propanal_c	met
+(2R)-2-Hydroxy-3-(phosphonooxy)-propanal_p	met
+2-(alpha-Hydroxyethyl)thiamine diphosphate	met
+2-Phospho-D-glycerate_c	met
+2-Phospho-D-glycerate_p	met
+3-Phospho-D-glycerate_c	met
+3-Phospho-D-glycerate_p	met
+3-Phospho-D-glyceroyl phosphate	met
+3-Phospho-D-glyceroyl phosphate	met
+Acetaldehyde	met
+Acetate_c	met
+CO2_c	met
+D-Glucose 1-phosphate	met
+D-Glucose 1-phosphate	met
+Glycerone phosphate_c	met
+Glycerone phosphate_p	met
+Phosphoenolpyruvate_c	met
+Phosphoenolpyruvate_p	met
+Pyruvate_c	met
+Pyruvate_p	met
+alpha-D-Glucose 6-phosphate_c	met
+alpha-D-Glucose 6-phosphate_p	met
+alpha-D-Glucose_c	met
+beta-D-Fructose 1,6-bisphosphate	met
+beta-D-Fructose 1,6-bisphosphate	met
+beta-D-Fructose 6-phosphate	met
+beta-D-Fructose 6-phosphate	met
+beta-D-Glucose 6-phosphate	met
+beta-D-Glucose 6-phosphate	met
+beta-D-Glucose	met
+r150:pyruvate dehydrogenase E1 component alpha subunit, chloroplast	rxn
+r185:pyruvate kinase	rxn
+r186:pyruvate kinase	rxn
+r279:enolase	rxn
+r280:enolase	rxn
+r291:aldehyde dehydrogenase, mitochondrial (ALDH3)	rxn
+r301:pyruvate decarboxylase	rxn
+r345:phosphoglucomutase, cytoplasmic	rxn
+r346:phosphoglucomutase, cytoplasmic	rxn
+r358:triosephosphate isomerase, chloroplast	rxn
+r359:triosephosphate isomerase, chloroplast	rxn
+r368:glyceraldehyde 3-phosphate dehydrogenase, chloroplast	rxn
+r369:glyceraldehyde 3-phosphate dehydrogenase A, chloroplast (GAPA)	rxn
+r370:glyceraldehyde 3-phosphate dehydrogenase, chloroplast	rxn
+r371:fructose-bisphosphate aldolase	rxn
+r372:fructose-bisphosphate aldolase	rxn
+r444:phosphoglycerate kinase	rxn
+r445:phosphoglycerate kinase	rxn
+r447:2,3-biphosphoglycerate-independent phosphoglycerate mutase	rxn
+r448:2,3-biphosphoglycerate-independent phosphoglycerate mutase	rxn
+r459:hexokinase	rxn
+r460:aldose 1-epimerase family protein	rxn
+r491:hexokinase	rxn
+r647:glucose-6-phosphate isomerase	rxn
+r648:glucose-6-phosphate isomerase, cytosolic (GPI) (phosphoglucose isomerase) (PGI) (phosphohexose isomerase) (PHI) (sp|P34795)	rxn
+r649:glucose-6-phosphate isomerase	rxn
+r650:glucose-6-phosphate isomerase	rxn
+r715:glucose-6-phosphate isomerase	rxn
+r904:fructose-1,6-bisphosphatase	rxn
+r905:fructose-1,6-bisphosphatase	rxn
