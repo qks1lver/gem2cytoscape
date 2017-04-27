@@ -61,7 +61,11 @@ SR = S > 0;
 % write to file
 f = fopen([param.fName '_network.sif'], 'w');
 for i = 1:length(rids)
-    rxnName = editName(param.m.rxnNames{rids(i)});
+    rxnName = param.m.rxnNames{rids(i)};
+    if isempty(rxnName)
+        rxnName = param.m.rxns{rids(i)};
+    end
+    rxnName = editName(rxnName);
     metL = param.m.metNames(SL(:,rids(i)));
     metR = param.m.metNames(SR(:,rids(i)));
     tmp = sprintf('r%u',rids(i));
@@ -114,6 +118,12 @@ fclose(f);
 
 function name = editName(name)
 %% trim rxnName to critical component
+% also because Cytoscape is awful with pre-treating special characters
 
-tmp = strsplit(name, ' / ');
-name = strrep(tmp{1}, ', putative', '');
+tmp = regexp(name,'[ -}]*','match');
+tmp = strsplit(tmp{1}, ' / ');
+tmp = strrep(tmp{1}, ', putative', '');
+tmp = strsplit(tmp, ';');
+tmp = regexprep(tmp{1},'[.*]','');
+tmp = strrep(tmp,'  ','');
+name = strtrim(tmp);
