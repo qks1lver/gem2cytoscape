@@ -116,6 +116,9 @@ for i = 1:length(rids)
 end
 fclose(f);
 
+% save param
+save([param.fName '_param']);
+
 function name = editName(name)
 %% trim rxnName to critical component
 % also because Cytoscape is awful with pre-treating special characters
